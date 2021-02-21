@@ -1,6 +1,6 @@
 # GUATSA
 
-An AWS serverkess WhatsApp notification service
+An AWS serverless WhatsApp notification service
 
 ## Development Environment
 
